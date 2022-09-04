@@ -2,7 +2,7 @@
 # Title
 # paytm-clone
 # What I  learn
-# while making paytm -clone app i lean how to use tailwind in project, this project use tailwind for design.
+ while making paytm -clone app i lean how to use tailwind in project, this project use tailwind for design.
 ![Screenshot from 2022-08-19 10-58-51](https://user-images.githubusercontent.com/109889191/188295911-d504a11e-1728-47fd-9650-4a03f2382b96.png)
 ![Screenshot from 2022-08-19 10-58-57](https://user-images.githubusercontent.com/109889191/188295917-299fcdc2-c5b9-4878-b259-67b022888776.png)
 ![Screenshot from 2022-08-19 11-00-08](https://user-images.githubusercontent.com/109889191/188295919-13a18673-cbbe-4fe2-a553-8627ce68d3ef.png)
